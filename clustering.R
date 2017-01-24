@@ -1,4 +1,3 @@
-# R-Code for 
 
 #Bioconductor package
 source("http://bioconductor.org/biocLite.R")
